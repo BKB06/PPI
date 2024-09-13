@@ -65,13 +65,13 @@ p {
 
 @font-face {
   font-family: 'FeatherBold';
-  src: url('assets/feather_bold.ttf') format('truetype');
+  src: url('feather_bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'DINNext';
-  src: url('assets/DIN_Next_Rounded.ttf') format('truetype');
+  src: url('DIN_Next_Rounded.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
